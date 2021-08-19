@@ -1,0 +1,30 @@
+.links {
+    color: aqua;
+    background-color: beige;
+}
+
+.navbar-brand {
+    color: aqua;
+    background-color: beige;
+}
+
+.links hover {
+    background-color: fuchsia;
+    color: lime;
+}
+
+body {
+    font-family: Brush Script MT;
+    background-color: chocolate;
+    font-size: 30px;
+    color: aquamarine;
+    text-align: center;
+}
+
+p {
+    font-family: Calibri;
+}
+
+h3 {
+    color: aliceblue;
+}
